@@ -1,0 +1,20 @@
+
+# EDA & notebooks
+pandas==2.2.3
+numpy==2.2.4
+matplotlib==3.10.1
+seaborn==0.13.2
+openpyxl==3.1.5
+jupyter
+notebook
+
+# Streamlit dashboard
+streamlit==1.44.1
+
+# ML Model
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# API (optionnel en local)
+fastapi==0.115.12
+uvicorn==0.34.0

@@ -1,0 +1,31 @@
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environnement local
+.env
+.venv/
+.envrc
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dossiers sensibles ou temporaires
+outputs/*.joblib
+data/*.csv
+data/*.xlsx
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
