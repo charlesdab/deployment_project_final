@@ -97,4 +97,8 @@ Projet réalisé dans le cadre de la certification Data Science (Jedha Bootcamp)
 
 Toutes les étapes ont été réalisées par [charlesdab](https://github.com/charlesdab).
 
+## 📁 Lien vers le dépôt GitHub
+
+🔗 https://github.com/charlesdab/deployment_project_final
+
 ---
